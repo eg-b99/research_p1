@@ -1,0 +1,35 @@
+---
+title: "Project_text_draft"
+author: "Egor Balalykin"
+format: html
+---
+
+# Introduction.Topic Description and Relevance
+
+The rapid development of Artificial Intelligence (AI) technologies has sparked significant policy debates about how to regulate and govern AI to ensure it benefits society without compromising core human values. Traditionally, the focus of AI governance has been on aspects such as innovation, security, and competitiveness, but there is an emerging framework called Digital Humanism that challenges these techno-centric approaches.
+Digital Humanism advocates for a more human-centered approach to AI governance, where human dignity, rights, and democratic values are prioritized. Rooted in European humanist traditions, this framework emphasizes the ethical design of algorithms, transparency, and accountability in AI systems, as well as the importance of democratic control over AI technologies (Floridi and Cowls, 2019; Vienna Manifesto, 2019). This perspective critiques the dominant techno-solutionism that seeks to solve societal challenges by merely enhancing technological capabilities (Morozov, 2013).
+This policy brief explores the European Union's approach to AI governance, particularly whether its policy documents adopt the Digital Humanism framework or whether they primarily emphasize the more common frames of Innovation and Security. This is timely because the EU has been a global leader in pushing for ethical AI through initiatives like the AI Act and calls for trustworthy AI (European Commission, 2020b).
+By analyzing the framing of AI governance in key EU policy texts, this study aims to contribute to the ongoing debate about how AI should be governed in ways that preserve democratic values and human rights.
+
+
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this 
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
