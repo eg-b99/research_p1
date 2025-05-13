@@ -46,3 +46,21 @@ Limitations:
 We consider that there are some potential limitations we should keep in mind. Ambiguity in terms: Some terms may appear in multiple contexts and may require
 manual/human interpretation.
 Small sample size: The analysis is based on a small number of documents, which may limit the generalizability of the findings. However, we would like to emphasize that we are considering identifying other important EU policy documents and if we consider appropriate in the working process to analyse them as well.
+
+
+## Timeline and Work Plan
+
+The following timeline outlines the tasks and responsibilities within the team:
+
+| **Task**                                           | **Assigned to**         | **Timeline**         |
+|----------------------------------------------------|--------------------------|-----------------------|
+| Research Outline                                   | Everyone                 | 2 May – 7 May         |
+| Policy Brief Concept Writing                       | Everyone                 | 7 May – 9 May         |
+| Working with primary documents                     | Ekaterine                | 10 May – 17 May       |
+| Coding in R                                        | Alexandra, Egor          | 10 May – 17 May       |
+| Presentation making                                | Everyone                 | 17 May – 23 May       |
+| Executive Summary of Policy Brief                  | Ekaterine                | 24 May – 1 July       |
+| Writing Part on Findings, Evidence, Implications   | Egor                     | 24 May – 1 July       |
+| Visualization (working with tables)                | Alexandra                | 24 May – 1 July       |
+| Coding in R for the Policy Brief                   | Ekaterine, Alexandra     | 24 May – 1 July       |
+
