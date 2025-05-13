@@ -13,10 +13,10 @@ By analyzing the framing of AI governance in key EU policy texts, this study aim
 
 ## Research Question and Objections
 
-#RQ:
+**RQ**:
 How do European Union policy documents frame AI governance: as a matter of innovation, security, or digital humanism?
 
-#Objectives:
+**Objectives**:
 - To examine how the EU frames the issue of AI governance in different policy documents.
 - To identify which framing – Innovation, Security, or Digital Humanism – is most prominent in EU policy discourse on AI.
 - To analyze the implications of these frames for ethical AI governance and the future regulation of AI technologies within the EU. The focus of the research will be to examine the use of key terms and language patterns in three key EU policy documents related to AI. It will look at how often and in what ways terms linked to human values, such as dignity, rights, and democratic control appear in texts, compared to terms linked to economic growth, competitiveness, and safety.
